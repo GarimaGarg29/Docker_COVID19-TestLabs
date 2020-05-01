@@ -97,3 +97,23 @@ You should be able to check it in your Docker container's URL, for example: <a h
 
 <img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid_Map/master/pic3.PNG' border='0' alt='Covid Map'/>
 <img src='https://raw.githubusercontent.com/shivam1808/Docker_Covid_Map/master/pic4.PNG' border='0' alt='Covid Map'/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Done Project with:-Shivam Gupta(https://github.com/shivam1808)
